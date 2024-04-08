@@ -1,4 +1,5 @@
 # Statistical-Learning-vs-Machine-Learning
+Statistical learning refers to a vast set of tools for understanding data. These tools can be classifed as supervised or unsupervised. Broadly speaking, supervised statistical learning involves building a statistical model for predicting, or estimating, an output based on one or more inputs. Problems of this nature occur in felds as diverse as business, medicine, astrophysics, and public policy. With unsupervised statistical learning, there are inputs but no supervising output; nevertheless we can learn relationships and structure from such data (James et al. 2023) 
 ### Here are some of the differences:
 * Both approaches rely on data, yet Statistical Learning employs rule-based programming, formalizing relationships between variables. In contrast, Machine Learning learns directly from data without explicit programming instructions.
 * Statistical Learning typically operates on smaller datasets with fewer attributes compared to Machine Learning, which can handle vast amounts of data and attributes.
